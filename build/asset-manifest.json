@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/deploy_Amazon_clone/static/css/main.a09ce7d7.chunk.css",
+    "main.js": "/deploy_Amazon_clone/static/js/main.8305bef5.chunk.js",
+    "main.js.map": "/deploy_Amazon_clone/static/js/main.8305bef5.chunk.js.map",
+    "runtime-main.js": "/deploy_Amazon_clone/static/js/runtime-main.0ec4982f.js",
+    "runtime-main.js.map": "/deploy_Amazon_clone/static/js/runtime-main.0ec4982f.js.map",
+    "static/js/2.89511cb2.chunk.js": "/deploy_Amazon_clone/static/js/2.89511cb2.chunk.js",
+    "static/js/2.89511cb2.chunk.js.map": "/deploy_Amazon_clone/static/js/2.89511cb2.chunk.js.map",
+    "index.html": "/deploy_Amazon_clone/index.html",
+    "precache-manifest.2d06365a7880ae0d1495513038d616e4.js": "/deploy_Amazon_clone/precache-manifest.2d06365a7880ae0d1495513038d616e4.js",
+    "service-worker.js": "/deploy_Amazon_clone/service-worker.js",
+    "static/css/main.a09ce7d7.chunk.css.map": "/deploy_Amazon_clone/static/css/main.a09ce7d7.chunk.css.map",
+    "static/js/2.89511cb2.chunk.js.LICENSE.txt": "/deploy_Amazon_clone/static/js/2.89511cb2.chunk.js.LICENSE.txt",
+    "static/media/ad.png": "/deploy_Amazon_clone/static/media/ad.2bd8f5ae.png",
+    "static/media/amazon-logo-transparent.png": "/deploy_Amazon_clone/static/media/amazon-logo-transparent.a760194c.png",
+    "static/media/banner_final.png": "/deploy_Amazon_clone/static/media/banner_final.4d28b561.png",
+    "static/media/realme.jpg": "/deploy_Amazon_clone/static/media/realme.9a05cf8d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ec4982f.js",
+    "static/js/2.89511cb2.chunk.js",
+    "static/css/main.a09ce7d7.chunk.css",
+    "static/js/main.8305bef5.chunk.js"
+  ]
+}
