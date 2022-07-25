@@ -1,7 +1,7 @@
 {
-  "name": "amazon-clone",
+  "name": "deploy_amazon-clone",
   "version": "0.1.0",
-  "homepage": "https://BlackNoir-saksham.github.io/Amazon_clone",
+  "homepage": "https://BlackNoir-saksham.github.io/deploy_amazon_clone",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
